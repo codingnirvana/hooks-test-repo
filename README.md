@@ -1,2 +1,1 @@
 # hooks-test-repo
-o
